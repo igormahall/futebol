@@ -1,0 +1,67 @@
+#EXTM3U
+
+#EXTINF:0 type="stream" channelId="3776" group="Esportes", Sportv
+https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3776" group="Esportes", Sportv 4K
+http://play.listapro.top:80/live/rc8zew5u/21231sw2/100330.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/T6VmjYB.png", group="Esportes", Premiere
+https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/T6VmjYB.png", group="Esportes", Premiere 4K
+http://play.listapro.top:80/live/rc8zew5u/21231sw2/97215.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/Sa86nNV.png",group="Esportes", Premiere 2
+https://cr7v.short.gy/Canal2/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/vdKC1eu.png",group="Esportes", Premiere 3
+https://cr7v.short.gy/Canal3/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/n5KKEiL.png",group="Esportes", Premiere 4
+https://cr7v.short.gy/Canal4/index.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/qVVCNKG.png",group="Esportes", Premiere 5
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
+
+#EXTINF:0 type="stream" tvg-logo="https://i.imgur.com/4CAJWni.png",group="Esportes", Premiere 6
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
+
+#EXTINF:0 type="stream" channelId="3776" group="Esportes", Disney+
+http://play.listapro.top:80/live/rc8zew5u/21231sw2/2905300.m3u8
+
+#EXTINF:0 type="stream" channelId="3776" group="Esportes", Disney+ 2
+http://play.listapro.top:80/live/denis3163776/3163H776i/2905301.m3u8
+
+#EXTINF:0 type="stream" channelId="3776" group="Esportes", Disney+ 7
+http://tecs.tupi.dad:80/live/11993930472br1/teste@930472br/902434.m3u8
+
+#EXTINF:0 type="stream" channelId="2540" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN
+https://cr7v.short.gy/manoiTVOP2/spnHD²/Index.m3u8
+
+#EXTINF:0 type="stream" channelId="2540" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 4K
+http://kz3x.top:80/880376955/852704284/1775359.m3u8
+
+#EXTINF:0 type="stream" channelId="344" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 2
+http://46.151.196.223:14438/
+
+#EXTINF:0 type="stream" channelId="355" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 3
+http://46.151.196.223:14444/
+
+#EXTINF:0 type="stream" channelId="1432" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 4
+http://79.127.243.211:14514/
+
+#EXTINF:0 type="stream" channelId="-1" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 5
+https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Esportes" logo="https://i.imgur.com/FGhjM7P.png", ESPN 6
+http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+
+#EXTINF:0 type="stream" channelId="2900" group="Esportes", TNT HD
+http://play.listapro.top:80/live/rc8zew5u/21231sw2/1094432.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Esportes", HBO MAX 1
+http://vps33.top:80/839986223966/blendediptv.me/195788.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="Esportes", Paramount+
+http://opaioo.com:80/live/fabianomendes20250110/20250110fabiano/1026165.m3u8
