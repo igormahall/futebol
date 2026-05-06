@@ -1,13 +1,7 @@
 #EXTM3U
 
-#EXTINF:0 type="stream" tvg-logo="http://lgfp.one/OWG6.png",Jogo FHD
-http://vps33.top:80/839986223966/blendediptv.me/312828.m3u8
-
-#EXTINF:0 type="stream" tvg-logo="http://lgfp.one/OWG5.png",Jogo HD
-http://vps33.top:80/839986223966/blendediptv.me/312827.m3u8
-
 #EXTINF:0 type="stream" tvg-logo="http://lgfp.one/NOI7", Paramount+
-http://vps33.top:80/839986223966/blendediptv.me/300933.m3u8
+http://play.dnshtp.com/live/antonio33vip/1sx3xko3erq/952468.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="http://lgfp.one/NOI7", Paramount+ 2
 http://vps33.top:80/839986223966/blendediptv.me/300934.m3u8
