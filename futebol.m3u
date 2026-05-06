@@ -1,9 +1,9 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="http://lgfp.one/OWG6.png",Jogo FHD
+#EXTINF:0 type="stream" tvg-logo="http://lgfp.one/OWG6.png",Jogo FHD
 http://vps33.top:80/839986223966/blendediptv.me/312828.m3u8
 
-#EXTINF:0 tvg-logo="http://lgfp.one/OWG5.png",Jogo HD
+#EXTINF:0 type="stream" tvg-logo="http://lgfp.one/OWG5.png",Jogo HD
 http://vps33.top:80/839986223966/blendediptv.me/312827.m3u8
 
 #EXTINF:0 type="stream" tvg-logo="http://lgfp.one/NOI7", Paramount+
