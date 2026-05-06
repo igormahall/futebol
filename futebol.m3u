@@ -63,5 +63,8 @@ http://play.listapro.top:80/live/rc8zew5u/21231sw2/1094432.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="Esportes", HBO MAX 1
 http://vps33.top:80/839986223966/blendediptv.me/195788.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="Esportes", Paramount+
+#EXTINF:0 type="stream" Paramount+
 http://vps33.top:80/839986223966/blendediptv.me/300933.m3u8
+
+#EXTINF:0 type="stream" Paramount+ 2
+http://vps33.top:80/839986223966/blendediptv.me/300934.m3u8
